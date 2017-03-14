@@ -1,0 +1,19 @@
+{
+  "name": "sushi",
+  "version": "0.0.1",
+  "description": "A tool to manage home automation through node",
+  "main": "index.js",
+  "repository": "https://github.com/ohmfox/sushi",
+  "author": "Conlin Durbin <@ohmfox>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "clear": "^0.0.1",
+    "clui": "^0.3.1",
+    "import-export": "^1.0.1",
+    "inquirer": "^3.0.6",
+    "minimist": "^1.2.0",
+    "noble": "^1.8.0",
+    "preferences": "^0.2.1"
+  }
+}
